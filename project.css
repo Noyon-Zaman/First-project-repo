@@ -40,3 +40,17 @@ footer{
     padding:10px 30px;
     border-radius: 5px;
 }
+.box{
+    text-align: center;
+}
+.last{
+    padding-left: 250px;
+    padding-right: 250px;
+    text-align: justify;
+    text-align: center;
+}
+.bg{
+    background-color:bisque;
+    margin:20px;
+    padding: 50px;
+}
