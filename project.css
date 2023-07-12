@@ -50,7 +50,24 @@ footer{
     text-align: center;
 }
 .bg{
-    background-color:bisque;
-    margin:20px;
+ background-color: lightsalmon;
+ padding: 50px;
+ margin-left: 150px;
+ margin-right: 150px;
+ margin-bottom: 50px;
+ border-radius: 30px;
+}
+#text{
+    text-align: center;
+}
+.pera{
+    text-align: center;
+    text-align: justify;
+}
+.sob{
+    display: flex;
+    text-align: left;
+}
+.web{
     padding: 50px;
 }
